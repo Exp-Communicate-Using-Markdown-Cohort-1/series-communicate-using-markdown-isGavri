@@ -8,3 +8,6 @@ return a > b ? "a more goals" : "b more goals";
 }
 console.log(moreGoals(golesA, golesB));
 ```
+- [ ] Get help
+- [ ] Eat
+- [ ] Drink
